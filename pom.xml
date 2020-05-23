@@ -6,7 +6,7 @@
 	<artifactId>secure-java-shiro-oauth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>com.okta.shiro</groupId>
